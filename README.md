@@ -107,7 +107,7 @@ const gatitos = [
 
 *5) Usando eventos en JSX y el estado*
 - En App.js hagamos un `<button>` "Ocultar gatitos". 
-- Al hacer click en el boton, queremos que los gatitos se oculten. Pensá qué cambios debemos hacer en el código para que esto funcione. 
+- Al hacer click en el boton, queremos que los gatitos se oculten. Pensá qué cambios debemos hacer en el código para que esto funcione, y agregalos.  
 
 *6) Continuacion eventos en JSX y estado*
 - En Tarjeta.js hagamos un `<button>` que diga "Ocultar color del gatito"
