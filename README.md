@@ -1,1 +1,0 @@
-# Practica-estado-y-props
